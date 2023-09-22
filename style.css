@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+#container{
+  margin-left: 100px;
+  text-align: center;
+  justify-content: center;
+}
+#container  ion-icon{
+    display: flex;
+    flex-direction: column;
+}
+
